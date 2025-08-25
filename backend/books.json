@@ -1,0 +1,192 @@
+[
+  {
+    "id": "1",
+    "title": "فاتتني صلاة",
+    "author": "إسلام جمال",
+    "rating": 4.7,
+    "description": "كتاب تحفيزي يسلط الضوء على أثر الصلاة في حياة المسلم وكيفية الالتزام بها",
+    "cover": "/images/book-covers/sala.png",
+    "reviews": [
+      {
+        "id": "r1",
+        "name": "Aisha",
+        "rating": 5,
+        "comment": "Beautiful and moving. A book that speaks to the heart."
+      },
+      {
+        "id": "r2",
+        "name": "Mohammed",
+        "rating": 4,
+        "comment": "كتاب مميز يجمع بين الترفيه والحكمة. مناسب لجميع الأعمار."
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "جونتنامو",
+    "author": "يوسف زيدان",
+    "rating": 5,
+    "description": "رواية تسرد تجربة المعتقلين في سجن غوانتنامو وما يحمله من أبعاد إنسانية وفكرية",
+    "cover": "/images/book-covers/guantanamo.png",
+    "reviews": [
+      {
+        "id": "r3",
+        "name": "Sarah",
+        "rating": 5,
+        "comment": "Disturbing but essential reading. The parallels to modern society are striking."
+      },
+      {
+        "id": "H_rQGF",
+        "name": "جعفر",
+        "rating": 5,
+        "comment": "أجمل ما قرأت في الأدب العربي. قصص خالدة عبر الزمان."
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "ذوق الصلاة عند ابن القيم",
+    "author": "ابن القيم",
+    "rating": 4.5,
+    "description": "ذوق الصلاة عند ابن القيم هو كتاب روحاني يتناول لذة الصلاة وكيفية الوصول إلى الخشوع الحقيقي فيها. يتحدث الكتاب عن ذوق الصلاة عند المسلمين وكيف يمكن للمسلمين أن يتعلموا ذوق الصلاة بشكل صحيح.",
+    "cover": "/images/book-covers/taste-salah.png",
+    "reviews": [
+      {
+        "id": "r4",
+        "name": "Ahmed",
+        "rating": 5,
+        "comment": "Inspiring and thought-provoking. Changed my perspective on prayer."
+      },
+      {
+        "id": "r5",
+        "name": "Fatima",
+        "rating": 4,
+        "comment": "جميل جداً"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Surrounded by Idiots",
+    "author": "Thomas Erikson",
+    "rating": 4.8,
+    "description": "A book that teaches you how to deal with different types of people in your life.",
+    "cover": "/images/book-covers/idiots.png",
+    "reviews": [
+      {
+        "id": "r6",
+        "name": "Emily",
+        "rating": 5,
+        "comment": "Very informative! Learned how to understand the different types of people in my life."
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "rating": 4.4,
+    "description": "A powerful story of friendship, betrayal, and redemption set against the backdrop of Afghanistan's turbulent history.",
+    "cover": "/images/book-covers/kite-runner.jpg",
+    "reviews": [
+      {
+        "id": "r7",
+        "name": "Omar",
+        "rating": 5,
+        "comment": "Heart-wrenching and beautiful. A story that stays with you long after reading."
+      },
+      {
+        "id": "r8",
+        "name": "Layla",
+        "rating": 4,
+        "comment": "Powerful storytelling that brings Afghanistan's history to life."
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "rating": 4.7,
+    "description": "A coming-of-age story that addresses serious issues like racism and injustice through the eyes of young Scout Finch in the American South.",
+    "cover": "/images/book-covers/mockingbird.jpg",
+    "reviews": [
+      {
+        "id": "r9",
+        "name": "James",
+        "rating": 5,
+        "comment": "A masterpiece of American literature. Atticus Finch is one of the greatest characters ever written."
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "ألف ليلة وليلة",
+    "author": "مجموعة مؤلفين",
+    "rating": 4.9,
+    "description": "مجموعة من القصص الشعبية العربية التي تجمع بين الخيال والواقع، مليئة بالمغامرات والحكمة الشرقية.",
+    "cover": "/images/book-covers/arabian-nights.jpg",
+    "reviews": [
+      {
+        "id": "r10",
+        "name": "فاطمة",
+        "rating": 5,
+        "comment": "كنز من الحكايات الشرقية الأصيلة. كل قصة تحمل حكمة وعبرة."
+      },
+      {
+        "id": "r11",
+        "name": "علي",
+        "rating": 5,
+        "comment": "أجمل ما قرأت في الأدب العربي. قصص خالدة عبر الزمان."
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "كليلة ودمنة",
+    "author": "ابن المقفع",
+    "rating": 4.6,
+    "description": "كتاب في الحكم والأمثال على لسان الحيوان، يجمع بين الأدب والفلسفة والحكمة العملية.",
+    "cover": "/images/book-covers/kalila-dimna.jpg",
+    "reviews": [
+      {
+        "id": "r12",
+        "name": "أحمد",
+        "rating": 4,
+        "comment": "كتاب مميز يجمع بين الترفيه والحكمة. مناسب لجميع الأعمار."
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "المتنبي ديوان",
+    "author": "أبو الطيب المتنبي",
+    "rating": 4.8,
+    "description": "ديوان شعر يحتوي على أجمل قصائد المتنبي، يعكس فلسفته في الحياة والحب والطموح.",
+    "cover": "/images/book-covers/mutanabbi.jpg",
+    "reviews": [
+      {
+        "id": "r13",
+        "name": "مريم",
+        "rating": 5,
+        "comment": "شعر المتنبي لا يزال يخاطب الروح حتى اليوم. كلمات خالدة."
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "أدب الكاتب",
+    "author": "ابن قتيبة",
+    "rating": 4.5,
+    "description": "كتاب في آداب الكتابة والأدب، يقدم نصائح قيمة للكتّاب والمؤلفين.",
+    "cover": "/images/book-covers/adab-katib.jpg",
+    "reviews": [
+      {
+        "id": "r14",
+        "name": "خالد",
+        "rating": 4,
+        "comment": "مرجع مهم لكل من يريد أن يتعلم فن الكتابة العربية."
+      }
+    ]
+  }
+]
